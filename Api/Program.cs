@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
-using Controller;
 
 namespace Api {
     public class Program {
